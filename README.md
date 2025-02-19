@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Sample typewriter-style animation made using Vanilla JS, Typescript. and Vite.
+Sample typewriter-style animation made using Vanilla JS, Typescript, and Vite.
 
 ### Built With
 
