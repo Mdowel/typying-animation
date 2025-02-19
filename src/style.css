@@ -1,3 +1,27 @@
+@font-face {
+  font-family: Victoria;
+  src: url("Victoria_Typewriter_Regular.ttf");
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(78, 78, 83);
+}
+
+.typewriter-container {
+  background-color: rgb(122, 123, 134);
+  height: 300px;
+  width: 600px;
+  padding: 2em;
+  font-family: "Victoria";
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
 .whitespace {
   white-space: pre-wrap;
 }

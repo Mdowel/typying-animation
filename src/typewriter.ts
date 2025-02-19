@@ -29,7 +29,6 @@ export default class Typewriter {
                     resolve()
                 }
             }, this.#typingSpeed)
-            this.#element.append(string)
         })
 
         return this
